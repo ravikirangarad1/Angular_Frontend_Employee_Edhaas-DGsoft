@@ -21,7 +21,11 @@ import net.javaguides.springboot.model.Employee;
 import net.javaguides.springboot.repository.EmployeeRepository;
 
 //this is the controller of emplyee management
+<<<<<<< HEAD
 //this is newgen office
+=======
+//this is ravikiran
+>>>>>>> 28b8a6aadf12470af2f4ce238e1b0ee48e51d437
 @CrossOrigin(origins = "http://localhost:4200")
 @RestController
 @RequestMapping("/api/v1/")
